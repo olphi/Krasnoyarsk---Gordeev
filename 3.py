@@ -1,1 +1,0 @@
-print(len('qwertyupasdfghjkzxcvbnmQWERTYUPASDFGHJKZXCVBNM23456789Li'))
